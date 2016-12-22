@@ -911,13 +911,14 @@
 		}
 
 	header > p {
-		color: #aaa;
+		color: #444444;
 	}
 
 /* Image */
 
 	.image {
-		display: inline-block;
+		dis
+		lay: inline-block;
 	}
 
 		.image img {
